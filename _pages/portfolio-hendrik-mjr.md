@@ -1,0 +1,106 @@
+---
+ID: 6193
+post_title: Portfolio Hendrik MJR
+author: DennisMaas
+post_excerpt: ""
+layout: page
+permalink: >
+  https://fotografenhafen.de/ueber-slife/die-fotografen/portfolio-hendrik-mjr/
+published: true
+post_date: 2019-05-02 13:04:36
+---
+<h3>
+					</h3>
+			<h1>Ich bin Hendrik MJR.</h1>		
+										<img width="1200" height="800" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Mitarbeiter-Profilfoto/Hendrikmjr-Portrait-von-Lukas-Bonny1.jpg" alt="" srcset="https://fotografenhafen.de/wp-content/uploads/Fotografen-Mitarbeiter-Profilfoto/Hendrikmjr-Portrait-von-Lukas-Bonny1.jpg 1200w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Mitarbeiter-Profilfoto/Hendrikmjr-Portrait-von-Lukas-Bonny1-300x200.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Mitarbeiter-Profilfoto/Hendrikmjr-Portrait-von-Lukas-Bonny1-768x512.jpg 768w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Mitarbeiter-Profilfoto/Hendrikmjr-Portrait-von-Lukas-Bonny1-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />											
+			<h3>Über Hendrik MJR</h3>		
+		<p>"Heute wie am Anfang ist es kein einfacher Prozess neue Spots zu finden. Vor allem wird es immer schwieriger neue zu finden da man schon so viel ausprobiert hat. " – so der Hamburger Fotograf Hendrik MJR, der von einem sehr engen Freund inspiriert, seine ersten Schritte als Fotograf 2016 machte. "Als Kreativer ist das Leben kein Abenteuer, in dem man zum triumphierenden Helden gekürt wird und danach für immer glücklich lebt. Als Kreativer besteht das Abenteuer darin, jeden Tag aufzuwachen, und aufs neue zu arbeiten.”</p><p>Im Gegensatz zu anderen Fotografen erlernte Hendrik seine Kunst in der Praxis, nicht an einer Hochschule. Mit einer Canon 700d geht er auf Reisen durch Europa, hauptsächlich als Fotograf oder zum Surfen. Seitdem Hendrik seinen Weg gefunden hat, geht er ihn konsequent und erfolgreich. Er fotografiert die Natur – am liebsten jedoch modernere Großstädte, denn, so erklärt er:”ich liebe es “urbanexploring” zu betreiben, wenn ich mal fern von zu Hause bin.”</p><p>Ein junger Meister dieser Kunst, dem es nicht nur gelingt, den Raum, das Licht, die Insignien der Themen frei in der Bildkomposition zusammenzutragen, sondern auch dem Betrachter möglichst viel Interpretationsfreiheit, “künstlerischen Freiheitsgeist“, wie er es schön ausdrückt, lässt.</p>		
+			<h4>Meine Auftragsarbeiten</h4>		
+			<figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Florian-Schade-Produktfotografie-Hamburg-TanquerayGin-1.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Florian-Schade-Produktfotografie-Hamburg-TanquerayGin-1-300x300.jpg" alt="" aria-describedby="gallery-5-6925" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Florian-Schade-Produktfotografie-Hamburg-TanquerayGin-1-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Florian-Schade-Produktfotografie-Hamburg-TanquerayGin-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6925'>
+				Food/Produkt
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Havencity-Hamburg.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Havencity-Hamburg-300x300.jpg" alt="" aria-describedby="gallery-5-6939" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Havencity-Hamburg-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Havencity-Hamburg-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6939'>
+				Fashion
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-frischerJuice.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-frischerJuice-300x300.jpg" alt="" aria-describedby="gallery-5-6926" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-frischerJuice-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-frischerJuice-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6926'>
+				Food
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Pastrami.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Pastrami-300x300.jpg" alt="" aria-describedby="gallery-5-6927" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Pastrami-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Pastrami-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6927'>
+				Food
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-peoplephotography-övelgönne-kran-fashion-lingerie-hamburg.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-peoplephotography-övelgönne-kran-fashion-lingerie-hamburg-300x300.jpg" alt="" aria-describedby="gallery-5-6938" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-peoplephotography-övelgönne-kran-fashion-lingerie-hamburg-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-peoplephotography-övelgönne-kran-fashion-lingerie-hamburg-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6938'>
+				Fashion
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Regus4.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Regus4-300x300.jpg" alt="" aria-describedby="gallery-5-6935" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Regus4-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Regus4-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6935'>
+				Interior
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Wonderflats.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Wonderflats-300x300.jpg" alt="" aria-describedby="gallery-5-6936" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Wonderflats-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Interiorfotografie/hendrik-mjr/Hendrikmjr-InterieurFotografie-Wonderflats-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6936'>
+				Interior
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Enterwerder1-Hamburg2.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Enterwerder1-Hamburg2-300x300.jpg" alt="" aria-describedby="gallery-5-6940" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Enterwerder1-Hamburg2-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Fashionfotografie/Hendrikmjr-Peoplephotography-Enterwerder1-Hamburg2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6940'>
+				Fashion
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudiorfotografie-lingerie-Nude-Fineart-Indoor-Hamburg3.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudiorfotografie-lingerie-Nude-Fineart-Indoor-Hamburg3-300x300.jpg" alt="" aria-describedby="gallery-5-6970" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6970'>
+				Nude
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Bowltogo.jpg'><img width="200" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Bowltogo.jpg" alt="" aria-describedby="gallery-5-6924" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6924'>
+				Food
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Kiechererbseneintopf-Marrakesh.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Kiechererbseneintopf-Marrakesh-300x300.jpg" alt="" aria-describedby="gallery-5-6929" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Kiechererbseneintopf-Marrakesh-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Foodfotografie/hendrik-mjr/Hendrikmjr-Foodfotografie-DailyCatering-DailyYou-Kiechererbseneintopf-Marrakesh-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6929'>
+				Food
+				</figcaption></figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="418d9c3a" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudiorfotografie-lingerie-Nude-Indoor-Hamburg-closeup.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudiorfotografie-lingerie-Nude-Indoor-Hamburg-closeup-300x300.jpg" alt="" aria-describedby="gallery-5-6968" /></a>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-5-6968'>
+				Nude
+				</figcaption></figure>
+			<h3>Freie Arbeiten</h3>		
+			<figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-004-img-0185-20171228-1.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-004-img-0185-20171228-1-300x300.jpg" alt="" srcset="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-004-img-0185-20171228-1-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-004-img-0185-20171228-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-014-img-1016-bearbeitet-20180218-adobergb.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-014-img-1016-bearbeitet-20180218-adobergb-300x300.jpg" alt="" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-003-img-0097-20171228.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-003-img-0097-20171228-300x300.jpg" alt="" srcset="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-003-img-0097-20171228-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-003-img-0097-20171228-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-010-img-0716-bearbeitet-bearbeitet-20180218-srgb.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-010-img-0716-bearbeitet-bearbeitet-20180218-srgb-300x300.jpg" alt="" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-034-img-5212-20180709.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-034-img-5212-20180709-300x300.jpg" alt="" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudior-Nude-Hamburg-Speicherstadt-urbex-Rooftop.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudior-Nude-Hamburg-Speicherstadt-urbex-Rooftop-300x300.jpg" alt="" srcset="https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudior-Nude-Hamburg-Speicherstadt-urbex-Rooftop-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Referenzfotos/Auftragsfotografie/Nude/hendrik-mjr/Hendrikmjr-Boudior-Nude-Hamburg-Speicherstadt-urbex-Rooftop-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-036-img-5301-20180709.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-036-img-5301-20180709-300x300.jpg" alt="" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="595ebdc2" href='https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-001-img-0015-20170312.jpg'><img width="300" height="300" src="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-001-img-0015-20170312-300x300.jpg" alt="" srcset="https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-001-img-0015-20170312-300x300.jpg 300w, https://fotografenhafen.de/wp-content/uploads/Fotografen-Fotodatenbank/Hendrik-Mantei/hm-01-001-img-0015-20170312-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			</figure>
+			<a href="https://bild-ahoi.de/collections/all/fotograf_hendrik-mjr" target="_blank" role="button" rel="noopener noreferrer">
+						Zu meinem Wandbild-Shop
+					</a>
+<form action="/wp-admin/admin-ajax.php#wpcf7-f8677-o3" method="post" novalidate="novalidate">
+<input type="hidden" name="_wpcf7" value="8677" />
+<input type="hidden" name="_wpcf7_version" value="5.1.4" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8677-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:8677,&quot;conditions&quot;:[{&quot;then_field&quot;:&quot;-1&quot;,&quot;and_rules&quot;:[{&quot;if_field&quot;:&quot;Newsletter&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;1&quot;}]}],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;notice_dismissed&quot;:false}}" />
+<p><input type="text" name="Name" value="" size="40" aria-invalid="false" placeholder="Name" /><br />
+<input type="email" name="your-email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="E-Mail" /><br />
+<textarea name="Besonderheiten" cols="40" rows="10" aria-required="true" aria-invalid="false" placeholder="Platz für ihr Anliegen."></textarea><br />
+<input type="checkbox" name="Newsletter[]" value="Ich habe Interesse am Newsletter." />Ich habe Interesse am Newsletter.<br />
+<label><input type="checkbox" name="Daten" value="1" aria-invalid="false" />Ich stimme der <br> <a href=" https://fotografenhafen.de/datenschutzerklaerung" >Datenschutzerklärung</a> zu.</label><br />
+<input type="submit" value="Absenden" /></p>
+<p style="display: none !important"><input type="hidden" name="referer-page" value="https://fotografenhafen.de/wp-admin/post.php?post=6193&action=elementor" aria-invalid="false"></p>
+<!-- Chimpmail extension by Renzo Johnson --></form>
